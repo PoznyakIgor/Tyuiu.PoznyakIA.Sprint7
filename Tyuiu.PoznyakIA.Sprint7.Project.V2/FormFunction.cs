@@ -10,13 +10,11 @@ using System.Windows.Forms;
 
 namespace Tyuiu.PoznyakIA.Sprint7.Project.V2
 {
-    public partial class FormMain : Form
+    public partial class FormFunction : Form
     {
-        public FormMain()
+        public FormFunction()
         {
             InitializeComponent();
         }
-
-        
     }
 }
