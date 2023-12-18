@@ -17,6 +17,9 @@ namespace Tyuiu.PoznyakIA.Sprint7.Project.V2
             InitializeComponent();
         }
 
-        
+        private void button2_Click(object sender, EventArgs e)
+        {
+#/
+        }
     }
 }
