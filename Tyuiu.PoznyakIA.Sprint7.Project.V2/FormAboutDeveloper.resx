@@ -117,4 +117,21 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="labelInfo_SAN.Text" xml:space="preserve">
+    <value>Разработчик: Позняк И.А.
+группа ИСТНб-23-1
+
+Программа разработана в рамках изучения языка C#
+
+Тюменский индустраильный университет (с) 2023
+Высшая школа цифровых технологий (с) 2023
+
+Внутренее имя: Tyuiu.PoznyakIA.Sprint7.Project.V2
+
+
+</value>
+  </data>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
 </root>
